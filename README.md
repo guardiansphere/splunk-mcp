@@ -22,8 +22,8 @@ Works with ChatGPT Desktop, Claude Desktop, and any MCP-compatible client.
 
 ### 1) Clone the repo
 ```
-git clone https://github.com/YOUR_USERNAME/splunk-mcp-server.git
-cd splunk-mcp-server
+git clone https://github.com/gaurdiansphere/splunk-mcp.git
+cd splunk-mcp
 ```
 
 ### 2) Create virtual environment & install dependencies
